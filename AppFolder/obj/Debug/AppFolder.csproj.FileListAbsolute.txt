@@ -1,0 +1,11 @@
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\bin\Debug\AppFolder.exe.config
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\bin\Debug\AppFolder.exe
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\bin\Debug\AppFolder.pdb
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.csprojResolveAssemblyReference.cache
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.Properties.Resources.resources
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.csproj.GenerateResource.Cache
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.exe
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.pdb
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.frmWindow.resources
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.frmSecurity.resources
+C:\Users\bruhh\Desktop\AppFolder\AppFolder\obj\Debug\AppFolder.PrimeiroAcess.resources
